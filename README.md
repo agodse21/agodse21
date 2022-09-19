@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agodse21&show_icons=true&locale=en" alt="agodse21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agodse21&" alt="agodse21" /></p>
-
-![snake gif](https://github.com/agodse21/agodse21/blob/output/github-contribution-grid-snake.svg)
