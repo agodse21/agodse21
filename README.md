@@ -36,4 +36,4 @@
 
 ![snake gif](https://github.com/agodse21/agodse21/blob/output/github-contribution-grid-snake.gif)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amol's github activity graph](https://activity-graph.herokuapp.com/graph?username=agodse21&theme=dracula)](https://github.com/agodse21/github-readme-activity-graph)
