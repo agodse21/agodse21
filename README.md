@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **agodse9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12IIxY-EQTx_ZnZQjZGl9wb8nedhP-wbN/view?usp=sharing](https://drive.google.com/file/d/12IIxY-EQTx_ZnZQjZGl9wb8nedhP-wbN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/agodse21/Resume/blob/main/Amol_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
