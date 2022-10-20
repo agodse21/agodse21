@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at [https://agodse21.github.io/amol-portfolio/](https://agodse21.github.io/amol-portfolio/)
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://agodse21.github.io/amol-portfolio/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **agodse9@gmail.com**
+- 📫 How to reach me- 📧[Mail](agodse9@gmail.com) 📌[Linkdin](https://www.linkedin.com/in/amol-godse-patil/)
 
-- 📄 Know about my experiences [Resume](https://github.com/agodse21/Resume/blob/main/Amol_Resume.pdf)
+- 📄 Know about my experiences-[Resume](https://github.com/agodse21/Resume/blob/main/Amol_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
