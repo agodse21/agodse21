@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Godse</h1>
 
 
-<h3 align="center">A Enthusiastic frontend developer from Aurangabad-Maharashtra</h3>
+<h3 align="center">A Enthusiastic frontend developer from Aurangabad-Maharashtra.I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
