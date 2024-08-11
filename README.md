@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/amolgodse_ag" target="blank"><img src="https://img.shields.io/twitter/follow/amolgodse_ag?logo=twitter&style=for-the-badge" alt="amolgodse_ag" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://agodse21.github.io/amol-portfolio/)
 
